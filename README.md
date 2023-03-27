@@ -33,3 +33,6 @@ Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em busca de
 - Compatibilização de projetos.
 - Realizar reuniões de planejamento e apresentação de resultados semanais.
 - Realização e acompanhamento de reuniões com clientes e prestadores de serviço.
+## Estagiário - Tranenge Construções
+- Responsável pelo auxilio no controle de qualidade e meio ambiente de 22 obras de arte.
+- 
