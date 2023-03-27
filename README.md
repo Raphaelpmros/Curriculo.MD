@@ -6,7 +6,9 @@
 ## Objetivo
 
 Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em busca de desenvolvimento profissional e adaptação ás necessidades da empresa, com experiencia na área de qualidade, profução e análise de ricos e oportunidades, aberto a novos desafios.
+
 ---
+
 # Experiência
 ## Assistente técnico - Ribeiro Caram
 - Responsável por tada parte de qualidade e meio ambiente do projeto Jacto.
