@@ -46,3 +46,6 @@ Acompanhamento de auditorias internas e externas.
 - Auxilio na elaboração de DataBook.
 - Auxilio na elaboração As Built.
 - Acompanhamento de check-list final de entrega
+
+---
+
