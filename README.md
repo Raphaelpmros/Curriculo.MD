@@ -24,3 +24,12 @@ Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em busca de
 - Auxílio para todos os setores da obra.
 - Responsável pelo acompanhamento de auditorias internas.
 ## Assistente técnico - GEO - Gestão Especializada em Obras
+- Responsável pelo acompanhamento de 11 obras de alto padrão variando entre residenciais e comerciais.
+- Acompanhamento total de obra.
+- Analise de soluções para otimização de tempo e melhoria de qualidade.
+- Responsável pela realização de pedido de materiais para as obras.
+- Planejamento de cronograma juntamente aos engenheiros.
+- Responsável pela cobrança para atendimento de cronograma.
+- Compatibilização de projetos.
+- Realizar reuniões de planejamento e apresentação de resultados semanais.
+- Realização e acompanhamento de reuniões com clientes e prestadores de serviço.
