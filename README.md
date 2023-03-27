@@ -35,4 +35,14 @@ Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em busca de
 - Realização e acompanhamento de reuniões com clientes e prestadores de serviço.
 ## Estagiário - Tranenge Construções
 - Responsável pelo auxilio no controle de qualidade e meio ambiente de 22 obras de arte.
-- 
+- Acompanhamento de obras.
+- Levantamento de materiais conforme projeto.
+- Gestão de pessoas.
+Acompanhamento de auditorias internas e externas.
+- Analise de riscos e oportunidades.
+- Aferição de equipamentos.
+- Acompanhamento de reuniões de planejamento.
+- Realização de relatório fotográfico.
+- Auxilio na elaboração de DataBook.
+- Auxilio na elaboração As Built.
+- Acompanhamento de check-list final de entrega
