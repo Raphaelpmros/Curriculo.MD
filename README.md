@@ -59,4 +59,19 @@ Acompanhamento de auditorias internas e externas.
 ### Udemy - Algoritimos e lógica de programação 2023
 
 ## Out/2022 - Nov/2023
-###
+### Curso EBAC - Profissão: Desenvolvedor Full Stack Python
+
+## Out/2022 - Nov/2023
+### Curso EBAC - TI do zero ao pró
+
+## Nov/2021
+### Engenharia Civil - Unimar
+
+## Out/2017
+### AutoCad 2017 - Senac
+
+## Nov/2016
+### Ensino médio - Colégio Cristo Rei
+
+## Nov/2014
+### Inglês - fisk
