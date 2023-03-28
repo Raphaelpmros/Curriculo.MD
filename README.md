@@ -1,7 +1,6 @@
 # Raphael Pereira de Mello Ros
 ### [E-mail](mailto:raphaelpmros@hotmail.com)
 ### [WhatsApp](https://wa.me/5514981471747)
-![QRCode](qrcode_api.whatsapp.com.png)
 ### [LinkedIn](https://www.linkedin.com/in/raphaelpmros/)
 ---
 ## Objetivo
