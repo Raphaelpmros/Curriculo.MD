@@ -75,3 +75,12 @@ Acompanhamento de auditorias internas e externas.
 
 ## Nov/2014
 - Inglês - fisk
+
+--- 
+
+# Habilidades
+- Boa comunicação
+- Trabalho em equipe
+- Pensamento estratégico
+- Fácil aprendizado
+- Inglês avançado
