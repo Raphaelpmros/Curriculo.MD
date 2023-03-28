@@ -53,7 +53,7 @@ Acompanhamento de auditorias internas e externas.
 
 # Formação
 ## Fev/2023 - Nov/2025
-### Analise e Desenvolvimento de Sistemas - Unimar
+- Analise e Desenvolvimento de Sistemas - Unimar
 
 ## Fev/2023 - Abr/2023
 ### Udemy - Algoritimos e lógica de programação 2023
