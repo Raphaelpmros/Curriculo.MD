@@ -5,7 +5,7 @@
 ---
 ## Objetivo
 
-Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em em transição de carreira, com experiencia na área de qualidade, produção e análise de riscos e oportunidades, aberto a novos desafios.
+Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em em transição de carreira, com experiencia na área de qualidade, produção e análise de riscos e oportunidades.
 
 ---
 
