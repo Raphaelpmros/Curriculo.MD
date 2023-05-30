@@ -67,15 +67,6 @@ Engenheiro civil e estudante de Analise e Desenvolvimento de Sisemas em em trans
 ## Nov/2021
 - Engenharia Civil - Unimar
 
-## Out/2017
-- AutoCad 2017 - Senac
-
-## Nov/2016
-- Ensino médio - Colégio Cristo Rei
-
-## Nov/2014
-- Inglês - Fisk
-
 --- 
 
 # Habilidades
